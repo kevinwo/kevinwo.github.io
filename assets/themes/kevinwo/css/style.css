@@ -17,13 +17,26 @@ h1, h2 {
   font-family: 'Nunito', sans-serif;
 }
 
-/* Jekyll Bootstrap Colors */
+a {
+  color: #CE2029;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #CE2029;
+  border-bottom: 1px solid #CE2029;
+}
+
 h1, h2, h3, h4 {
   color: #f22430;
 }
 #footer {
-  background-color: #fdcd60;
+  background-color: #DDDDDD;
 }
+#footer a {
+  color: #999999;
+}
+
 
 /* Navbar */
 
