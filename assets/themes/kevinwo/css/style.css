@@ -13,6 +13,10 @@
 /*.navbar .nav {
   float: right; }*/
 
+h1, h2 {
+  font-family: 'Nunito', sans-serif;
+}
+
 /* Jekyll Bootstrap Colors */
 h1, h2, h3, h4 {
   color: #f22430;
@@ -21,6 +25,42 @@ h1, h2, h3, h4 {
   background-color: #fdcd60;
 }
 
+/* Navbar */
+
+.navbar-default {
+  background-image: none;
+  background: #CE2029;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav>li>a {
+  color: #FFFFFF;
+}
+
+.navbar-default #contact {
+  margin-top: 1em;
+  margin-right: 1em;
+}
+
+/* Index */
+
+body#kevin-wolkober .page-header h1 {
+  text-align: center;
+  color: #333333;
+  font-size: 350%;
+}
+
+body#kevin-wolkober .page-header small {
+  font-size: 50%;
+  color: #999999;
+}
+
+body#kevin-wolkober h2 {
+  text-align: center;
+  color: #999999;
+}
 
 
 /* posts index */
