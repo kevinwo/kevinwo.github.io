@@ -9,11 +9,5 @@ tagline: （你也可以叫我沃凱文）
 <br />
 {: style="text-align: center;"}
 
-[KuaiBoard](http://www.kuaiboard.com/)
-{: style="text-align: center;"}
-
-[Taipei Garbage Service](https://itunes.apple.com/us/app/taipei-garbage-service/id1008766409?mt=8)
-{: style="text-align: center;"}
-
-[NYC Wi-Fi](https://itunes.apple.com/us/app/nyc-wi-fi/id592003101?mt=8&uo=4)
-{: style="text-align: center;"}
+[KuaiBoard](http://www.kuaiboard.com/) \|\| [Taipei Garbage Service](https://itunes.apple.com/us/app/taipei-garbage-service/id1008766409?mt=8) \|\|  [NYC Wi-Fi](https://itunes.apple.com/us/app/nyc-wi-fi/id592003101?mt=8&uo=4)
+{: style="color: #999999; text-align: center;"}
