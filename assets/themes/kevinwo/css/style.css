@@ -13,7 +13,7 @@
 /*.navbar .nav {
   float: right; }*/
 
-h1, h2 {
+h1, h2, div {
   font-family: 'Nunito', sans-serif;
 }
 
@@ -53,11 +53,16 @@ h1, h2, h3, h4 {
 }
 
 .navbar-default #contact {
-  margin-top: 1em;
+  margin-top: 0.3em;
   margin-right: 1em;
+  text-align: right;
 }
 
 /* Index */
+
+body#kevin-wolkober .page-header {
+  border-bottom: none;
+}
 
 body#kevin-wolkober .page-header h1 {
   text-align: center;
@@ -73,6 +78,14 @@ body#kevin-wolkober .page-header small {
 body#kevin-wolkober h2 {
   text-align: center;
   color: #999999;
+}
+
+body#kevin-wolkober .row p a {
+  font-size: 1.7em;
+}
+
+body#kevin-wolkober .row p {
+  font-size: 1.2em;
 }
 
 
@@ -130,3 +143,14 @@ body#kevin-wolkober h2 {
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+/*@media(min-width:992px) *{
+
+}*/
+
+@media(min-width:768px) *{
+  body#kevin-wolkober .page-header h1 {
+    font-size: 12px;
+  }
+}
+
